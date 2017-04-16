@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SoTo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.mdc-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SoTo:war exploded" />
+    </root>
+  </artifact>
+</component>
