@@ -24,7 +24,7 @@
 <div style="width: 90%; margin: 0 auto;">
     <c:forEach var="b" items="${backgrounds}">
         <a href="/orign.html?imgUrl=${b.image}">
-            <img src="/image.html?imgUrl=${b.thumbnail}" width="200" height="150" />
+            <img src="/image.html?imgUrl=${b.thumbnail}" width="200px" height="150px" />
         </a>
     </c:forEach>
 </div>
