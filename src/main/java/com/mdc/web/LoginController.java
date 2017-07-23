@@ -29,6 +29,7 @@ public class LoginController {
 
     @RequestMapping(value = "/index.html")
     public String loginPage(){
+        System.out.println("login");
         return "login";
     }
 

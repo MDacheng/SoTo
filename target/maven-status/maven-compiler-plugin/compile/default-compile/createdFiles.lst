@@ -1,0 +1,14 @@
+com/mdc/dao/LoginLogDao.class
+com/mdc/util/ImageUtil.class
+com/mdc/util/Test.class
+com/mdc/dao/BackgroundDao.class
+com/mdc/service/UserService.class
+com/mdc/domain/User.class
+com/mdc/web/LoginController.class
+com/mdc/web/BackgroundController.class
+com/mdc/domain/LoginLog.class
+com/mdc/dao/BaseDao.class
+com/mdc/dao/UserDao.class
+com/mdc/domain/Background.class
+com/mdc/service/BackgroundService.class
+com/mdc/web/LoginCommand.class
